@@ -15,7 +15,7 @@ Welcome to the **Chai or React** counter app built with React! This simple app a
 ### 1. Initial State
 This is how the app looks when it is first loaded. The counter starts at 0.
 
-![Initial State](images/initial-state.png)
+![Initial State](image_github/image1.png)
 
 ### 2. After Clicking Add Value
 Once you click the "Add Value" button, the counter increases. Here, the counter is shown at 5.
