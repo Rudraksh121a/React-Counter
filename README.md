@@ -1,8 +1,39 @@
-# React + Vite
+# Chai or React - Counter App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the **Chai or React** counter app built with React! This simple app allows users to increase or decrease a counter value. It demonstrates basic state management in React using the `useState` hook.
 
-Currently, two official plugins are available:
+## Features
+- Increment the counter value.
+- Decrement the counter value.
+- Counter value is capped at a maximum of 20.
+- Counter value cannot go below 0.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+## Screenshots
+
+### 1. Initial State
+This is how the app looks when it is first loaded. The counter starts at 0.
+
+![Initial State](images/initial-state.png)
+
+### 2. After Clicking Add Value
+Once you click the "Add Value" button, the counter increases. Here, the counter is shown at 5.
+
+![After Add Value](images/after-add-value.png)
+
+### 3. After Clicking Remove Value
+When you click the "Remove Value" button, the counter decreases. In this screenshot, the counter is at 2.
+
+![After Remove Value](images/after-remove-value.png)
+
+---
+
+## Installation
+
+To run this project locally, follow these steps:
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/your-username/chai-or-react.git
