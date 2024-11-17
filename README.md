@@ -18,14 +18,14 @@ This is how the app looks when it is first loaded. The counter starts at 0.
 ![Initial State](image_github/image1.png)
 
 ### 2. After Clicking Add Value
-Once you click the "Add Value" button, the counter increases. Here, the counter is shown at 5.
+Once you click the "Add Value" button, the counter increases. Here, the counter is shown at 1.
 
-![After Add Value](images/after-add-value.png)
+![After Add Value](image_github/image_2.png)
 
 ### 3. After Clicking Remove Value
-When you click the "Remove Value" button, the counter decreases. In this screenshot, the counter is at 2.
+When you click the "Remove Value" button, the counter decreases. In this screenshot, the counter is at 0.
 
-![After Remove Value](images/after-remove-value.png)
+![After Remove Value](image_github/image_3.png)
 
 ---
 
